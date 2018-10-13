@@ -30,6 +30,9 @@ Basics
 C++ libraries
 * autosprintf: (autosprintf).   Support for printf format strings in C++.
 
+Development
+* libffi: (libffi).             Portable foreign-function interface library.
+
 GNU Gettext Utilities
 * ISO3166: (gettext)Country Codes.
                                 ISO 3166 country codes.
