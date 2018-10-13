@@ -1,7 +1,7 @@
 # This file contains a table of character encoding aliases,
 # suitable for operating system 'darwin18.0.0'.
 # It was automatically generated from config.charset.
-# Packages using this file: @PACKAGE@ gettext-runtime gettext-tools grep 
+# Packages using this file: @PACKAGE@ gettext-runtime gettext-tools grep tar 
 ISO8859-1 ISO-8859-1
 ISO8859-2 ISO-8859-2
 ISO8859-4 ISO-8859-4

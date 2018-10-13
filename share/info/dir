@@ -14,6 +14,9 @@ File: dir,	Node: Top	This is the top of the INFO tree
 
 * Menu:
 
+Archiving
+* Tar: (tar).                   Making tape (or disk) archives.
+
 Basics
 * Time: (time).                 time
 
@@ -69,6 +72,7 @@ Individual utilities
 * Gawk Work Flow: (gawkworkflow)Overview.       Participating in 'gawk' 
                                                   development.
 * awk: (gawk)Invoking Gawk.                     Text scanning and processing.
+* tar: (tar)tar invocation.                     Invoking GNU 'tar'.
 
 Network applications
 * awkinet: (gawkinet).          TCP/IP Internetworking With 'gawk'.
