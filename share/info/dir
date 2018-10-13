@@ -191,6 +191,10 @@ Individual utilities
 Network applications
 * awkinet: (gawkinet).          TCP/IP Internetworking With 'gawk'.
 
+Software development
+* GNU libunistring: (libunistring).
+                                Unicode string library.
+
 Text creation and manipulation
 * Gawk: (gawk).                 A text scanning and processing language.
 * Gawk Work Flow: (gawkworkflow).
